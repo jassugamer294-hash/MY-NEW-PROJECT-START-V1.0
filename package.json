@@ -10,5 +10,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "licenseKey": "AGMP-ANOP-ZEVO-V1.0",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
